@@ -1483,6 +1483,9 @@ ClearLag+lagg.tpchunk+Allows players to Teleport to chunks.+/lagg tpchunk <x> <z
 ClearLag+lagg.tps+Allows players to view current tps.+/lagg tps
 ClearLag+lagg.unloadchunks+Allows players to Unload un-needed chunks.+/lagg unloadchunks
 Coins+coins.admin+Give access to all admin commands.
+CompaniesReloaded+companies.create+Allows player to create a company.
+CompaniesReloaded.companies.warp+Allows player to teleport to company HQ.
+CompaniesReloaded.companies.review+Allows player to create reviews.
 CommandDoesNotExist+cdne.[command]+Ability to bypass the command block
 CommandDoesNotExist+cdne.list.list+Ability to use the list command (lists all currently blocked commands and words)+/cdne list
 CommandDoesNotExist+cdne.list.modify+Ability to use the add and remove command (adds and removes commands and words from the blocked list)+/cdne add,/cdne remove
